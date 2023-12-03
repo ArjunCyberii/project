@@ -1,0 +1,136 @@
+ body{
+    background-color: beige;
+ }
+#gif {
+   background-image: url(./giphy.gif);
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 70px  hotpink;
+}
+
+#gif:hover {
+    box-shadow: 2px 2px 70px #2E86C1;
+}
+
+label {
+    color: white
+}
+
+#SIGNUP{
+      margin-top:20vh;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+ #sign{
+     color:#2874A6 ;
+     background-color: #EB984E;
+     border-radius: 6px;
+     text-align: center;
+ }
+  #name{
+    
+    color:#c468ec ;
+    font-size: large;
+  }
+
+ #userName{
+  
+    margin-top: 40px;
+     border-color: blue;
+     width: 240px;
+     border-style:dashed;
+     background-color:#A9CCE3;
+     align-items: center;
+     
+}
+
+#email{
+
+     color:#c468ec ;
+     font-size: large;
+    
+}
+
+#userEmail{
+    margin-top: 40px ;
+    border-color: blue;
+    width: 242px;
+    border-style:dashed;
+    background-color:#A9CCE3;
+}
+
+
+#password{
+    color:#c468ec ;
+    font-size: large;
+}
+
+#user-password{
+
+    margin-top: 40px ;
+    border-color: blue;
+    width: 242px;
+    border-style:dashed;
+    background-color:#A9CCE3;
+}
+
+
+ #number{
+    color:#c468ec;
+    font-size: large;
+ }
+
+  #userNumber{
+    margin-top: 40px ;  
+    border-color: blue;
+    width: 208px;
+    border-style:dashed;
+    background-color:#A9CCE3;
+
+  }
+
+ #send{
+     margin-top: 60px;
+     
+     color: black;
+     background-color: #3498DB;
+     border-color: beige;
+     cursor: pointer;
+     height: 35px;
+     width: 120px;
+     border-radius: 8px ;
+     font-size: large;
+      
+     margin-left: 45%;
+     font-family: "Roboto",sans-serif ;
+     
+     
+ }
+
+  #send:hover, #send:focus, #send:active{
+        
+       box-shadow: 0 0 20px darkcyan ;
+       -webkit-transform:scale(1.1) ;
+       transform: scale(1.1);
+    
+    
+    
+    
+  }
+
+  #hsi{
+    
+  }
+
+
+
+
+   
+
+ 
+
+
+
+
+

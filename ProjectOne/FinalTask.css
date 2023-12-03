@@ -1,0 +1,181 @@
+
+header{
+
+    top: 0;
+	left: 0;
+	right: 0;
+	z-index: 999;
+	gap: 1px;
+}
+nav{
+
+    background-color: plum;
+    color: azure;
+    padding-left: 20px;
+    height:40px;
+    padding:20px ;
+     
+}
+
+
+li,ul,h1{
+    display: inline;
+}
+
+ul{
+    padding-left: 60%;
+    
+}
+
+li{
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+li:hover{
+    color: black;
+}
+
+input{
+    height: 31px;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 350px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: crimson ; 
+    padding-left: 15px;
+
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    padding-top: 10px;
+    
+}
+p{
+    padding-left: 10px;
+   
+    
+
+}
+p:hover{
+background-color: aqua;
+}
+
+
+.Box{
+    border-style: solid;
+    border-color: gold;
+    border-radius: 15px;
+    display: inline-block;
+    width: 220px;
+
+    margin-top: 80px;
+    margin-right: 70px;
+    }
+
+.consept{
+    text-align: center;
+}
+
+
+
+#qw{
+    text-align: center  ;
+}
+ #ww{
+    text-align: center;
+    margin-top: 0px;
+ }
+
+
+ .black{
+    background-color: black ;
+    width: 200px;
+    color: blanchedalmond;
+    text-align: center;
+     margin-left: 650px;
+     border-radius: 8px;
+}
+body{
+    background-color: blanchedalmond
+}
+
+#search{
+    background-color:wheat;
+}
+
+#search-button{
+    background-color: aqua;
+    color: crimson;
+    border-radius: 15px;
+    height: 28px;
+    margin-right: 20px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#img-BMW{
+    height: 360px;
+    width: 660px;
+    margin-left: 380px;
+}
+
+.para{
+           color: blueviolet;
+           text-align: center;
+           font-size: 20px;
+           
+
+}
+.para:hover{
+
+     background-color: aquamarine;
+    
+}
+
+#img-BENZ{
+
+    height: 660px;
+    width: 660px;
+    margin-left: 380px;
+
+}
+
+#img-RR{
+    height: 360px;
+    width: 660px;
+    margin-left: 380px;
+}
+
+
+
+ #link{
+    color: aqua;
+ }
+
+
+
+
+
+   
+
+
+
+
+
+
+
